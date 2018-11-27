@@ -1,0 +1,10 @@
+fa18-cs425-g26-01.cs.illinois.edu:172.22.156.85
+fa18-cs425-g26-02.cs.illinois.edu:172.22.158.85
+fa18-cs425-g26-03.cs.illinois.edu:172.22.154.86
+fa18-cs425-g26-04.cs.illinois.edu:172.22.156.86
+fa18-cs425-g26-05.cs.illinois.edu:172.22.158.86
+fa18-cs425-g26-06.cs.illinois.edu:172.22.154.87
+fa18-cs425-g26-07.cs.illinois.edu:172.22.156.87
+fa18-cs425-g26-08.cs.illinois.edu:172.22.158.87
+fa18-cs425-g26-09.cs.illinois.edu:172.22.154.88
+fa18-cs425-g26-10.cs.illinois.edu:172.22.156.88
